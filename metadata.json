@@ -1,0 +1,6 @@
+{
+  "name": "Hospital Treatment Cost Predictor",
+  "description": "An interactive data science lifecycle dashboard and real-time treatment pricing predictor using patient clinical data.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
